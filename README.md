@@ -262,3 +262,4 @@ Users can choose between testing Jenkins based on a RHEL or CentOS image.
 **Notice: By omitting the `VERSION` parameter, the build/test action will be performed
 on all provided versions of Jenkins. Since we are currently providing only version `1`,
 you can omit this parameter.**
+# jenkins-official
